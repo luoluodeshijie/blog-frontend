@@ -4,6 +4,7 @@
 
 ![部署失败](41121651200945_.pic.jpg)
 
++ 部署成功
 ```javascript
 {
   "name": "blog-with-gridsome",
@@ -26,6 +27,7 @@
 }
 ```
 
++ 部署失败
 ```javascript
 {
   "name": "mygridsome-mac",
