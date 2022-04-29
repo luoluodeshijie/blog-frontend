@@ -1,0 +1,1 @@
+# .env.development 和 .env.production 文件中的变量，带有 GRIDSOME_ 服务端和客户端都能访问到，前面不带 GRIDSOME_ 的只能服务端能访问到
